@@ -1,3 +1,18 @@
 #container1 {
     display: flex;
 }
+
+
+#container3 {
+    display: flex ;
+    justify-content:space-evenly;
+    align-items: flex-end;
+
+}
+
+.img { 
+    justify-content: flex-start;
+    width: 195px;
+    height: 185px;
+    margin-top:50px;
+}
