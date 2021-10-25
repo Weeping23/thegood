@@ -1,0 +1,217 @@
+.startup{
+    position: absolute;
+width: 440px;
+height: 170px;
+left: 923px;
+top: 233px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 80px;
+line-height: 94px;
+}
+
+.link{
+    position: absolute;
+    width: 84px;
+    height: 18px;
+    text-decoration: none;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+}
+
+#background{
+    position: absolute;
+width: 1367px;
+height: 989px;
+left: 59px;
+top: 49px;
+
+background: #FDFDFD;
+box-shadow: 0px 4px 28px rgba(0, 0, 0, 0.25);
+border-radius: 39px;
+}
+
+.x1{
+    left: 678px;
+    top: 109px;
+}
+
+.x2{
+    left: 773px;
+top: 109px;
+}
+
+.x3{
+    left: 892px;
+top: 109px;
+
+}
+
+.x4{
+    left: 981px;
+top: 109px;
+}
+
+
+.x5{
+    left: 1082px;
+top: 108px;
+}
+
+.x6{
+    left: 1175px;
+top: 108px
+}
+
+.b1{
+    position: absolute;
+width: 237px;
+height: 58px;
+left: 923px;
+top: 544px;
+
+background-color: #000000;
+border-radius: 29px;
+color:white
+
+
+}
+
+.b2{
+    position: absolute;
+width: 163px;
+height: 58px;
+left: 1199px;
+top: 544px;
+
+background-color: rgb(133, 120, 182);
+border-radius: 29px;
+}
+
+p{
+    text-align: justify;
+}
+
+.sofa{
+    position: absolute;
+width: 796px;
+height: 516px;
+left: 88px;
+top: 183px;
+}
+
+.salto{
+    position: absolute;
+width: 118.24px;
+height: 94.83px;
+left: 90.26px;
+top: 69.38px;
+
+}
+
+.ejercicio{
+    position: absolute;
+width: 108px;
+height: 209px;
+left: 598px;
+top: 736px;
+}
+
+.dos-h{
+    position: absolute;
+width: 145px;
+height: 221px;
+left: 146px;
+top: 724px;
+}
+
+.salto{
+    position: absolute;
+width: 95px;
+height: 185px;
+left: 1041px;
+top: 760px;
+
+}
+
+.s1{
+    position: absolute;
+width: 176px;
+height: 30px;
+left: 194px;
+top: 59px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 26px;
+line-height: 30px;
+text-align: center;
+
+}
+
+.all{
+    position: absolute;
+width: 394px;
+height: 61px;
+left: 923px;
+top: 454px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+}
+
+.free{
+    position: absolute;
+    width: 242px;
+    height: 142px;
+    left: 320px;
+    top: 780px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+}
+    
+.build{
+    position: absolute;
+    width: 233px;
+    height: 103px;
+    left: 749px;
+    top: 780px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 19px;}
+
+.community{
+    position: absolute;
+width: 239px;
+height: 113px;
+left: 1153px;
+top: 779px;
+
+font-family: Righteous;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 19px;
+}    
+
+#container {
+    flex-direction: row;
+}
