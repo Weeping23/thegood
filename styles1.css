@@ -1,4 +1,18 @@
-#container1 {
-    display: flex; align-self: start;
-    flex-direction: column-reverse;
+ .container1 {
+     display: flex ;
+     align-items: center;
+     justify-content: space-between;
+     
 }
+
+.nav {
+display: flex; 
+justify-content: space-evenly;
+gap: 40px;
+
+}
+.logo {
+    display: flex;
+    justify-content: space-evenly 
+}
+
