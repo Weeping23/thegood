@@ -212,6 +212,7 @@ font-size: 15px;
 line-height: 19px;
 }    
 
-#container {
+#container1 {
+    display: flex;
     flex-direction: row;
 }
