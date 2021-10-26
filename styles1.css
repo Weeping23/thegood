@@ -1,4 +1,32 @@
-#container1 {
-    display: flex; align-self: start;
-    flex-direction: column-reverse;
+ .container1 {
+     display: flex ;
+     align-items: center;
+     justify-content: space-between;
+     
+}
+
+.nav {
+display: flex; 
+justify-content: space-evenly;
+gap: 40px;
+
+}
+.logo {
+    display: flex;
+    justify-content: space-evenly 
+}
+
+
+#container3 {
+    display: flex ;
+    justify-content:space-evenly;
+    align-items: flex-end;
+
+}
+
+.img { 
+    justify-content: flex-start;
+    width: 195px;
+    height: 185px;
+    margin-top:50px;
 }
