@@ -37,3 +37,10 @@ justify-content: center;
     height: 185px;
     margin-top:50px;
 }
+
+.button {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+
+}
